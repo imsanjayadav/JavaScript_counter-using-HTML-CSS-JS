@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin-top: 50px;}
+div{text-align: center;}
+button{
+    align-items: center;
+    margin: 10px;
+    padding: 5px 20px;
+    border-radius: 3px;
+    font-size: large;
+    font-weight: 500;}
+#b2{
+    background-color: rgba(13, 146, 13, 0.774);
+    border-color:rgba(13, 146, 13, 0.774) ;}
+#b1{
+    background-color: rgba(255, 0, 0, 0.842);
+    border-color: rgba(255, 0, 0, 0.842);}
